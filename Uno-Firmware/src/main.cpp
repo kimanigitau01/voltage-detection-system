@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <LiquidCrystal.h>
 
-#define TEST_PROTOTYPE
+// #define TEST_PROTOTYPE
 
 const int numCols = 16;
 const int numRows = 2;
