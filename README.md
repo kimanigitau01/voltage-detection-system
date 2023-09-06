@@ -41,6 +41,7 @@ The Arduino code is structured as follows:
 ## Circuit Diagram
 The hardware for this project is as follows:
 ![img-to-circuit-diagram](img/Screenshot%20from%202023-09-06%2020-52-40.png)
+[link-to-tinkerCAD-simulation](https://www.tinkercad.com/things/b8YAaqjXBGW?sharecode=0dbFyJwSw-gdwLExRLWjtMcC0cFYBktt-lLg3yy8B4o)
 ## Setup Procedure
 click Here to find out more on [how to setup the project](debug-files/README.md)
 
